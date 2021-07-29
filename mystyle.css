@@ -43,8 +43,10 @@ height: auto;
 .content {
 background-color: #ddd;
 padding: 20px;
+padding-right: 10px;
 border-color: black;
 height: 100%;
+width: auto;
 overflow-x: scroll;
 }
 
@@ -58,6 +60,7 @@ overflow-x: scroll;
     margin-right: auto;
     width: auto;
     height: auto;
+    padding-right: 5px;
 }
 
 /* Style the footer */
@@ -66,6 +69,7 @@ background-color: #f1f1f1;
 padding: 10px;
 height: auto;
 overflow-x: scroll;
+padding-right: 10px;
 }
 
 .khabarnahi{
@@ -74,6 +78,7 @@ overflow-x: scroll;
     margin-right: auto;
     object-position: center;
     overflow-x: scroll;
+    padding-right: 5px;
 }
 
 th{
