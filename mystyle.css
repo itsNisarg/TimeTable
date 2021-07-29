@@ -96,3 +96,9 @@ th{
     border: 3px solid black;
 }
 
+#rcorners1 {
+    border-radius: 30px;
+    padding: 20px;
+    width: VW;
+}
+
